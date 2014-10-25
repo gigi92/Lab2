@@ -1,0 +1,25 @@
+#java specific
+02.
+*.class
+03.
+ 
+04.
+#netbeans ignore personal stuff
+05.
+nbproject/private/
+06.
+ 
+07.
+ 
+08.
+## generic files to ignore
+09.
+*~
+10.
+*.lock
+11.
+*.DS_Store
+12.
+*.swp
+13.
+*.out
